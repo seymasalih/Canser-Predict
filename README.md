@@ -1,2 +1,3 @@
 # Canser-Predict
-%98 başarı oranı! Pyhton'dan KNN algorisması kullanıldı.
+# KNN
+98% success rate! KNN algorithm from pyhton was used.
